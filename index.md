@@ -1,6 +1,8 @@
-## History and Theory of Dynamic Media
+# History and Theory of Dynamic Media
 
-### Creative Project 1: Fluxus Score
+## Creative Project 1: Fluxus Score
+
+## Technical Difficulties
 
 For performance by three people with four Zoom enabled video/audio devices with four Zoom accounts.
 
@@ -9,6 +11,6 @@ Roles:
 2. [Interviewer](./index_old.html)
 3. [Interviewee](./index_old.html)
 
-### Utility
+## Utility
 
 [Reference](./index_old.html)

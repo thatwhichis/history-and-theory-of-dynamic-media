@@ -1,14 +1,9 @@
-## History and Theory of Dynamic Media
+## Creative Project 1: Fluxus Score
 
-### Creative Project 1: Fluxus Score
+## Interviewee
 
-For performance by three people with four Zoom enabled video/audio devices with four Zoom accounts.
+Requires a Zoom enabled device and one Zoom account.
 
-Roles:
-1. [Technical Difficulties](./technical_difficulties.html)
-2. [Interviewer](./interviewer.html)
-3. [Interviewee](./interviewee.html)
-
-### Utility
-
-[Reference](./index_old.html)
+- Interviewee joins Zoom meeting link provided by TD from their own device.
+- Interviewee isn’t excited about this job; the pay is too low but it’s better than nothing.
+- Interviewee attempts to satisfactorily answer Interviewer’s questions.

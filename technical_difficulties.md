@@ -1,14 +1,12 @@
-## History and Theory of Dynamic Media
+## Creative Project 1: Fluxus Score
 
-### Creative Project 1: Fluxus Score
+## Technical Difficulties
 
-For performance by three people with four Zoom enabled video/audio devices with four Zoom accounts.
+Requires two Zoom enabled devices with two Zoom accounts.
 
-Roles:
-1. [Technical Difficulties](./index_old.html)
-2. [Interviewer](./index_old.html)
-3. [Interviewee](./index_old.html)
-
-### Utility
-
-[Reference](./index_old.html)
+- TD Sets up two Zoom enabled devices each signed into a different Zoom account facing each other and within audible range of each other so that the screens can be mutually seen, and audio mutually heard.
+- TD Creates a Zoom meeting on each device from a separate account and provides different links to join to Interviewer/Interviewee.
+- TD Starts audio and video on both devices.
+- TD Admits Interviewer and Interviewee to separate meetings that are now audible/visible to each other.
+- TD Chooses a three-to-five-minute duration to allow the interview to continue; when the selected duration has elapsed, network disruption ends the interview prematurely.
+- TD May interact with interview process indirectly.
