@@ -15,6 +15,7 @@ Requires a Zoom enabled device and one Zoom account.
 
 - (C) Attempts to satisfactorily answer (R)’s questions.
 - [Suggested Talking Points](./candidate_suggestions.html)
+- Interview continues until it is ended by (TD).
 
 # Post-Interview
 

@@ -6,15 +6,18 @@ Requires a Zoom enabled device and one Zoom account.
 
 # Pre-Interview
 
-- (R) Joins Zoom meeting link provided by TD from their own device.
-- (R) Wants to hire a friend for the posted position, even though this Candidate (C) is more qualified.
-- [Recruiter Posting](./Recruiter_Posting_Microsoft365_20210919.pdf)
-- [Candidate Resume](./Candidate_Resume_Microsoft365_20210919.pdf)
+- (R) Opens the following links for reference during interview (either in separate tabs or by downloading them and opening the associated files).
+[Recruiter Posting](./Recruiter_Posting_Microsoft365_20210919.pdf)
+[Candidate Resume](./Candidate_Resume_Microsoft365_20210919.pdf)
+- (R) Is unsure (C) is qualified for the position posting.
+- (R) Joins Zoom meeting link provided by TD from their own device and ensures video/audio are enabled.
+- If necessary, (R) pins (TD) view to screen so (TD) view of (C) is their primary interaction point.
 
 # Interview
 
-- (R) Proceeds to question (C).
-- [Suggested Interview Questions](./recruiter_suggestions.html)
+- (R) Proceeds to interview (C).
+- [Suggested Interview Leads](./recruiter_suggestions.html)
+- Interview continues until it is ended by (TD).
 
 # Post-Interview
 
