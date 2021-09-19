@@ -7,9 +7,9 @@
 For performance by three people with four Zoom enabled video/audio devices with four Zoom accounts.
 
 Roles:
-1. [Technical Difficulties](./index_old.html)
-2. [Interviewer](./index_old.html)
-3. [Interviewee](./index_old.html)
+1. [Technical Difficulties](./technical_difficulties.html)
+2. [Interviewer](./interviewer.html)
+3. [Interviewee](./interviewee.html)
 
 ## Utility
 
