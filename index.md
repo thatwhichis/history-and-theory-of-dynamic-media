@@ -6,7 +6,7 @@
 
 For performance by three people with four Zoom enabled video/audio devices with four Zoom accounts.
 
-The three participants will discuss necessary meterials and decide who will take each role (one (1) role per participant).
+The three participants will discuss necessary materials and decide who will take each role (one (1) role per participant).
 
 Roles:
 1. [Technical Difficulties (TD)](./technical_difficulties.html) - Requires two Zoom enabled devices with two Zoom accounts.
