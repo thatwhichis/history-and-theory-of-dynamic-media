@@ -2,7 +2,7 @@
 
 ## Technical Difficulties (TD)
 
-# Suggested Disruptions
+### Suggested Disruptions
 
 - (TD) Adjusts speaker volume up or down on either/both (R) and/or (C)'s representative device(s) representing bad audio connection.
 - (TD) Enables filter on either/both device(s) representing potential user error of Zoom interface.
