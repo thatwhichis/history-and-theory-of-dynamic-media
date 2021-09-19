@@ -15,7 +15,7 @@ Requires two Zoom enabled devices with two Zoom accounts.
 ### Interview
 
 - (TD) May, and is somewhat encouraged, to interact with interview process indirectly.
-- [Suggested Interactions](./technical_difficulties_suggestions.html)
+- [Suggested Interactions](./technical_difficulties_suggestions.html) (Open in new tab/window.)
 - At the end of the previously selected three-to-five-minute duration, end the interview (due to "Technical Difficulties").
 
 ### Post-Interview

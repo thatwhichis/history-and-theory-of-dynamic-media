@@ -15,7 +15,7 @@ Requires a Zoom enabled device and one Zoom account.
 
 - (R) Is unsure (C) is qualified for the position posting.
 - (R) Proceeds to interview (C).
-- [Suggested Interview Leads](./recruiter_suggestions.html)
+- [Suggested Interview Leads](./recruiter_suggestions.html) (Open in new tab/window.)
 - Interview continues until it is ended by (TD).
 
 ### Post-Interview

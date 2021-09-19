@@ -15,7 +15,7 @@ Requires a Zoom enabled device and one Zoom account.
 
 - (C) Is unsure the position posting is a good culture fit.
 - (C) Attempts to satisfactorily answer (R)’s questions.
-- [Suggested Talking Points](./candidate_suggestions.html)
+- [Suggested Talking Points](./candidate_suggestions.html) (Open in new tab/window.)
 - Interview continues until it is ended by (TD).
 
 ### Post-Interview
