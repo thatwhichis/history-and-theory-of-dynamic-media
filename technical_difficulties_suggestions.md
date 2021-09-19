@@ -15,6 +15,6 @@ Requires two Zoom enabled devices with two Zoom accounts.
 # Interview
 
 - (TD) May, and is somewhat encouraged, to interact with interview process indirectly.
-- [Suggested Interactions](./technical_difficulties_suggestions.html)
+- (TD) [Suggested Interactions](./index_old.md)
 
 # Post-Interview

@@ -6,6 +6,16 @@ Requires a Zoom enabled device and one Zoom account.
 
 # Pre-Interview
 
-- Interviewee joins Zoom meeting link provided by TD from their own device.
-- Interviewee isn’t excited about this job; the pay is too low but it’s better than nothing.
-- Interviewee attempts to satisfactorily answer Interviewer’s questions.
+- (C) Joins Zoom meeting link provided by (TD) from their own device.
+- (C) Isn’t excited about this job; the pay is too low but it’s better than nothing.
+
+# Interview
+
+- (C) Attempts to satisfactorily answer (R)’s questions.
+- [Suggested Talking Points](./candidate_suggestions.html)
+
+# Post-Interview
+
+- (C) Considers interaction with (R) for between twenty-four (24) and forty-eight (48) hours.
+- (C) Writes down in a journal whether or not they will withdraw from consideration for the position, continue in the interview process, or, if made an offer, if they will consider or potentially accept the offer.
+- Next time (C) schedules an interview for a position (whether as (R) or (C)) (C) reads over journal entry for this score and reflects upon the experience.
