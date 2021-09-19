@@ -8,6 +8,8 @@ Requires a Zoom enabled device and one Zoom account.
 
 - (R) Joins Zoom meeting link provided by TD from their own device.
 - (R) Wants to hire a friend for the posted position, even though this Candidate (C) is more qualified.
+- [Recruiter Posting](./Recruiter_Posting_Microsoft365_20210919.pdf)
+- [Candidate Resume](./Candidate_Resume_Microsoft365_20210919.pdf)
 
 # Interview
 

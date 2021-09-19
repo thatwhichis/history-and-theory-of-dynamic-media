@@ -8,6 +8,8 @@ Requires a Zoom enabled device and one Zoom account.
 
 - (C) Joins Zoom meeting link provided by (TD) from their own device.
 - (C) Isn’t excited about this job; the pay is too low but it’s better than nothing.
+- [Recruiter Posting](./Recruiter_Posting_Microsoft365_20210919.pdf)
+- [Candidate Resume](./Candidate_Resume_Microsoft365_20210919.pdf)
 
 # Interview
 
