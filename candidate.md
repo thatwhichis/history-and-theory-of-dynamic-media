@@ -6,13 +6,14 @@ Requires a Zoom enabled device and one Zoom account.
 
 # Pre-Interview
 
-- (C) Joins Zoom meeting link provided by (TD) from their own device.
-- (C) Isn’t excited about this job; the pay is too low but it’s better than nothing.
+- (C) Opens the following links for reference during interview (either in separate tabs or by downloading them and opening the associated files).
 - [Recruiter Posting](./Recruiter_Posting_Microsoft365_20210919.pdf)
 - [Candidate Resume](./Candidate_Resume_Microsoft365_20210919.pdf)
+- (C) Joins Zoom meeting link provided by (TD) from their own device and ensures video/audio are enabled. (NOTE: For demonstration purposes, if this performance is done in a single Zoom meeting via breakout rooms, (C) pins (TD) view to screen so (TD) view of (R) is their primary interaction point.)
 
 # Interview
 
+- (C) Is unsure the position posting is a good culture fit.
 - (C) Attempts to satisfactorily answer (R)’s questions.
 - [Suggested Talking Points](./candidate_suggestions.html)
 - Interview continues until it is ended by (TD).

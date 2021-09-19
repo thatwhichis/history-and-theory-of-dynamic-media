@@ -9,12 +9,11 @@ Requires a Zoom enabled device and one Zoom account.
 - (R) Opens the following links for reference during interview (either in separate tabs or by downloading them and opening the associated files).
 [Recruiter Posting](./Recruiter_Posting_Microsoft365_20210919.pdf)
 [Candidate Resume](./Candidate_Resume_Microsoft365_20210919.pdf)
-- (R) Is unsure (C) is qualified for the position posting.
-- (R) Joins Zoom meeting link provided by TD from their own device and ensures video/audio are enabled.
-- If necessary, (R) pins (TD) view to screen so (TD) view of (C) is their primary interaction point.
+- (R) Joins Zoom meeting link provided by (TD) from their own device and ensures video/audio are enabled. (NOTE: For demonstration purposes, if this performance is done in a single Zoom meeting via breakout rooms, (R) pins (TD) view to screen so (TD) view of (C) is their primary interaction point.)
 
 # Interview
 
+- (R) Is unsure (C) is qualified for the position posting.
 - (R) Proceeds to interview (C).
 - [Suggested Interview Leads](./recruiter_suggestions.html)
 - Interview continues until it is ended by (TD).
