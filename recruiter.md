@@ -6,9 +6,7 @@ Requires a Zoom enabled device and one Zoom account.
 
 ### Pre-Interview
 
-- (R) Opens the following links for reference during interview (either in separate tabs or by downloading them and opening the associated files).
-[Recruiter Posting](./Recruiter_Posting_Microsoft365_20210919.pdf)
-[Candidate Resume](./Candidate_Resume_Microsoft365_20210919.pdf)
+- (R) Opens the following links for reference during interview (either in separate tabs or by downloading them and opening the associated files). [Recruiter Posting](./Recruiter_Posting_Microsoft365_20210919.pdf) * [Candidate Resume](./Candidate_Resume_Microsoft365_20210919.pdf)
 - (R) Joins Zoom meeting link provided by (TD) from their own device and ensures video/audio are enabled. (NOTE: For demonstration purposes, if this performance is done in a single Zoom meeting via breakout rooms, (R) pins (TD) view to screen so (TD) view of (C) is their primary interaction point.)
 
 ### Interview
