@@ -2,7 +2,7 @@
 
 ## Technical Difficulties (TD)
 
-Requires two Zoom enabled devices with two Zoom accounts.
+Requires two (2) Zoom enabled devices with two (2) Zoom accounts.
 
 ### Pre-Interview
 
