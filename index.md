@@ -13,4 +13,4 @@ Roles:
 2. [Recruiter (R)](./recruiter.html) - Requires one (1) Zoom enabled device and one (1) Zoom account.
 3. [Candidate (C)](./candidate.html) - Requires one (1) Zoom enabled device and one (1) Zoom account.
 
-(NOTE: For demonstration purposes, this score may be performed in a single Zoom meeting via two breakout rooms, rather than two individual Zoom meetings, so long as one room contains both (R) and one (TD) account, and the other room contains both (C) and the other (TD) account. Any spectators in either room should ensure their audio is muted/disabled.)
+(**NOTE:** For demonstration purposes, this score may be performed in a single Zoom meeting via two breakout rooms, rather than two individual Zoom meetings, so long as one room contains both (R) and one (TD) account, and the other room contains both (C) and the other (TD) account. Any spectators in either room should ensure their audio is muted/disabled.)
