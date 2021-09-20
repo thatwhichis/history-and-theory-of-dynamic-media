@@ -4,9 +4,9 @@
 
 ### Mock Interview
 
-For performance by three people with four Zoom enabled video/audio devices with four Zoom accounts.
+For performance by three (3) people with four (4) Zoom enabled video/audio devices with four (4) Zoom accounts.
 
-The three participants will discuss necessary materials and decide who will take each role (one (1) role per participant).
+The three (3) participants will discuss necessary materials and decide who will take each role (one (1) role per participant).
 
 Roles:
 1. [Technical Difficulties (TD)](./technical_difficulties.html) - Requires two (2) Zoom enabled devices with two (2) Zoom accounts.
