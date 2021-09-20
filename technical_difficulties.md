@@ -18,10 +18,10 @@ Requires two Zoom enabled devices with two Zoom accounts.
 
 - (TD) Indirectly interact with interview process.
   - [Suggested Interactions](./technical_difficulties_suggestions.html) (Open in new tab/window.)
-- At the end of the previously selected three-to-five-minute (3 - 5 minute) duration, end the interview as the final Technical Difficulty.
+- (TD) At the end of the previously selected three-to-five-minute (3 - 5 minute) duration, end the interview as the final Technical Difficulty.
 
 ### Post-Interview
-- Consider the effects of technology on this interview for between twenty-four (24) and forty-eight (48) hours.
-- At the end of a twenty-four (24) to forty-eight (48) hour period, ask (R) and (C) individually to describe how (TD) impacted this interview experience.
-- Write down in a journal some of the worst case scenarios technology could introduce in real interviews.
+- (TD) Consider the effects of technology on this interview for between twenty-four (24) and forty-eight (48) hours.
+- (TD) At the end of a twenty-four (24) to forty-eight (48) hour period, ask (R) and (C) individually to describe how (TD) impacted this interview experience.
+- (TD) Write down in a journal some of the worst case scenarios technology could introduce in real interviews.
 - Next time (TD) schedules an interview for a position (whether as (R) or (C)) (TD) reads over journal entry for this score and reflects upon the experience.
