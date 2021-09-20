@@ -4,7 +4,8 @@
 
 ### Suggested Disruptions
 
-- (TD) Adjusts speaker volume up or down on either/both (R) and/or (C)'s representative device(s) representing bad audio connection.
-- (TD) Enables filter on either/both device(s) representing potential user error of Zoom interface.
-- (TD) Holds up a cat between devices representing the intrusion of home life into the professional sphere in a WFH environment.
-- (TD) Holds up clear but distorted plastic filter between devices representing network visual artifacting.
+- (TD) Adjust speaker volume up or down on either/both (R) and/or (C)'s representative device(s) to represent audio connectivity issues.
+- (TD) Enable filter on either/both device(s) to represent potential user error of Zoom interface.
+- (TD) Hold up a cat between devices to represent the intrusion of home life into the professional sphere in a WFH environment.
+- (TD) Hold up clear but distorted plastic filter between devices to represent network visual artifacting.
+- (TD) Slowly rotate one of the devices so that by the end of the interview the candidates can no longer see eye-to-eye.

@@ -16,7 +16,7 @@
 - Ask (C) if they have any questions for you.
 
 If (C) has **any questions** for you, consider the following responses:
-- The **salary range** available for this position is in accordance with local market standards. If pressed, tell them you will have to check with the hiring manager.
-- This is a **direct hire** position.
-- You will E-mail them a copy of the **benefits package** at Company Name after this interview.
-- Company Name actively discourages **overtime** for various reasons, including employee health and safety.
+  - The **salary range** available for this position is in accordance with local market standards. If pressed, tell them you will have to check with the hiring manager.
+  - This is a **direct hire** position.
+  - You will E-mail them a copy of the **benefits package** at Company Name after this interview.
+  - Company Name actively discourages **overtime** for various reasons, including employee health and safety.

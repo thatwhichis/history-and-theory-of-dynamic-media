@@ -6,18 +6,21 @@ Requires a Zoom enabled device and one Zoom account.
 
 ### Pre-Interview
 
-- (R) Opens the following links for reference during interview (either in separate tabs or by downloading them and opening the associated files). [Recruiter Posting](./Recruiter_Posting_Microsoft365_20210919.pdf) * [Candidate Resume](./Candidate_Resume_Microsoft365_20210919.pdf)
-- (R) Joins Zoom meeting link provided by (TD) from their own device and ensures video/audio are enabled. (NOTE: For demonstration purposes, if this performance is done in a single Zoom meeting via breakout rooms, (R) pins (TD) view to screen so (TD) view of (C) is their primary interaction point.)
+- (R) Open the following links for reference during interview (either in separate tabs or by downloading them and opening the associated files).
+  - [Recruiter Posting](./Recruiter_Posting_Microsoft365_20210919.pdf)
+  - [Candidate Resume](./Candidate_Resume_Microsoft365_20210919.pdf)
+- (R) Join Zoom meeting link provided by (TD) from (R)'s own device and ensures video/audio are enabled.
+  - (NOTE: For demonstration purposes in two separate breakout rooms, (R) pins (TD)) view to screen so (TD) view of (C) is the primary interaction point. Any spectators should ensure their audio is muted/disabled.)
 
 ### Interview
 
 - (R) Is unsure (C) is qualified for the position posting.
-- (R) Proceeds to interview (C).
-- [Suggested Interview Leads](./recruiter_suggestions.html) (Open in new tab/window.)
+- (R) Proceed to interview (C).
+  - [Suggested Interview Leads](./recruiter_suggestions.html) (Open in new tab/window.)
 - Interview continues until it is ended by (TD).
 
 ### Post-Interview
 
-- (R) Considers interaction with (C) for between twenty-four (24) and forty-eight (48) hours. 
-- (R) Writes down in a journal whether (C) will be made an offer or not and why.
+- (R) Consider interaction with (C) for between twenty-four (24) and forty-eight (48) hours.
+- (R) Write down in a journal whether (C) will advance in the interview process and why. Write down any feelings about power dynamics in this score or how (R) felt about the interview process.
 - Next time (R) schedules an interview for a position (whether as (R) or (C)) (R) reads over journal entry for this score and reflects upon the experience.
