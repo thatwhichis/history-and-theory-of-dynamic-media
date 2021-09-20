@@ -19,5 +19,5 @@ Requires a Zoom enabled device and one Zoom account.
 ### Post-Interview
 
 - (C) Considers interaction with (R) for between twenty-four (24) and forty-eight (48) hours.
-- (C) Writes down in a journal whether or not they will withdraw from consideration for the position, continue in the interview process, or, if made an offer, if they will consider or potentially accept the offer.
+- (C) Writes down in a journal whether they will withdraw from consideration for the position, continue in the interview process, or, if made an offer, if they will consider or potentially accept the offer.
 - Next time (C) schedules an interview for a position (whether as (R) or (C)) (C) reads over journal entry for this score and reflects upon the experience.
