@@ -20,4 +20,4 @@ Requires two Zoom enabled devices with two Zoom accounts.
 
 ### Post-Interview
 - Consider the effects of technology on this interview for between twenty-four (24) and forty-eight (48) hours.
-- At the end of a twenty-four (24) to forty-eight (48) hour period, ask (R) and (C) individually to describe how (TD) impaced this interview experience.
+- At the end of a twenty-four (24) to forty-eight (48) hour period, ask (R) and (C) individually to describe how (TD) impacted this interview experience.

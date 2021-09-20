@@ -9,6 +9,6 @@
 
 If (R) asks if you have **any questions** for them, consider asking the following:
 - What is the salary range available for this position?
-- Is this a direct hire or sub-contratced position?
+- Is this a direct hire or sub-contracted position?
 - Can you tell me about the benefits package at Company Name?
 - Can you tell me about the culture at Company Name, especially as it pertains to overtime?
