@@ -10,7 +10,7 @@ Requires one (1) Zoom enabled device and one (1) Zoom account.
   - [Recruiter Posting](./Recruiter_Posting_Microsoft365_20210919.pdf)
   - [Candidate Resume](./Candidate_Resume_Microsoft365_20210919.pdf)
 - (R) Join Zoom meeting link provided by (TD) from (R)'s own device and ensures video/audio are enabled.
-  - (**NOTE:** For demonstration purposes in two separate breakout rooms, (R) enters assigned breakout room and pins (TD)) view to screen so (TD) view of (C) is the primary interaction point. Any spectators should ensure their audio is muted/disabled.)
+  - (**NOTE:** For demonstration purposes in two separate breakout rooms, (R) enters assigned breakout room and pins (TD) view to screen so (TD) view of (C) is the primary interaction point. Any spectators should ensure their audio is muted/disabled.)
 
 ### Interview
 
