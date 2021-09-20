@@ -2,7 +2,7 @@
 
 ## Creative Project 1: Fluxus Score
 
-### Technical Difficulties
+### Mock Interview
 
 For performance by three people with four Zoom enabled video/audio devices with four Zoom accounts.
 
