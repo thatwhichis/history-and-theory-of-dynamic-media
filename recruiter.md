@@ -2,7 +2,7 @@
 
 ## Recruiter (R)
 
-Requires a Zoom enabled device and one Zoom account.
+Requires one (1) Zoom enabled device and one (1) Zoom account.
 
 ### Pre-Interview
 
