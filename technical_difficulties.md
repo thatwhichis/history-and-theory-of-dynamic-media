@@ -11,7 +11,7 @@ Requires two (2) Zoom enabled devices with two (2) Zoom accounts.
   - (**NOTE:** For demonstration purposes, (TD) accounts may be assigned into two separate Zoom breakout rooms.)
 - (TD) Ensure audio and video are enabled for both devices.
 - (TD) Admit (R) and (C) to separate meetings that are now audible/visible to each other.
-  - (**NOTE:** For demonstration purposes in two separate breakout rooms, (TD) pins (C) and (R) to their respective room. Any spectators should ensure their audio is muted/disabled.)
+  - (**NOTE:** For demonstration purposes in two separate breakout rooms, **(TD) pins (C) and (R) to their respective room**. Any spectators should ensure their audio is muted/disabled.)
 - (TD) Choose a three-to-five-minute (3 - 5 minute) duration to allow the interview to continue; when the selected duration has elapsed, end the interview as a demonstration of network disruption.
 
 ### Interview
