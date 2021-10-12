@@ -1,17 +1,21 @@
 const COLOUR = 127;
-const CANVAS = 400;
+const CANVAS = 200;
 
 // Only set up to handle odd numbers at the moment
 const GRID = 19;
 
 let rando = Math.random;
+let canvasTops = [0, CANVAS];
+let i = 0;
 
 const s = ( sketch ) => {
 
     let button, cell, maze;
 
     sketch.setup = () => {
-        sketch.createCanvas(CANVAS, CANVAS);
+        let cvs = sketch.createCanvas(CANVAS, CANVAS);
+        cvs.position = sketch.createVector(0, canvasTops[i]);
+        i++;
         sketch.strokeWeight(0);
         sketch.fill(0);
 
@@ -47,3 +51,4 @@ const s = ( sketch ) => {
 };
 
 let myp5 = new p5(s);
+let myp6 = new p5(s);
