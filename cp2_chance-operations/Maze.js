@@ -1,0 +1,134 @@
+class Maze {
+
+    _debug = false;
+
+    _ends;
+    _grid;
+    _size;
+    _random;
+
+    // Ugly workaround to allow Maze to create p5.js vectors
+    // Would roll my own but vector math functions are handy in sketch
+    _sketch;
+
+    constructor(sketch, size, random) {
+        if (size === undefined) { size = 0; }
+        this._size = sketch.createVector(size, size);
+
+        // TODO - consider
+        this._random = random;
+        this._sketch = sketch;
+    }
+
+    get Ends() {
+        return this._ends;
+    }
+
+    get Size() {
+        return this._size.x;
+    }
+
+    get Grid() {
+        return this._grid;
+    }
+
+    set Size(value) {
+        this._size = this._sketch.createVector(value, value);
+    }
+
+    log(value) {
+        if (this._debug) {
+            console.log(value);
+        }
+    }
+
+    shuffle(x, y) {
+        // Reset the grid housing the maze
+        // Fill the grid as true for wall draw test, grid test in step
+        this._grid = new Array(this._size.y).fill()
+            .map(() => new Array(this._size.x).fill(true));
+
+        // Reset the array tracking maze endings
+        this._ends = [];
+
+        // Kickoff maze generation from supplied grid position (player position)
+        // y, x because I tend to think row dominantly
+        this.step(y, x);
+    }
+
+    step(y, x) {
+        // Set this grid position false (default/walls are true)
+        this._grid[y][x] = false;
+
+        // Create and init array of directional position vectors for storage
+        let vectors = [];
+        for (let i = 0; i < 4; i++) {
+            vectors.push(this._sketch.createVector(0, 0));
+        }
+
+        // Do this next part until available directions hit 0 for all
+        while (true) {
+            let direction = 0;
+
+            // Check up
+            if (y > 1 && this._grid[y - 2][x]) {
+                vectors[direction].y = y - 2;
+                vectors[direction].x = x;
+                direction++;
+            }
+            // Check down
+            if (y < this._grid.length - 2 && this._grid[y + 2][x]) {
+                vectors[direction].y = y + 2;
+                vectors[direction].x = x;
+                direction++;
+            }
+            // Check left
+            if (x > 1 && this._grid[y][x - 2]) {
+                vectors[direction].y = y;
+                vectors[direction].x = x - 2;
+                direction++;
+            }
+            // Check right
+            if (x < this._grid[y].length - 2 && this._grid[y][x + 2]) {
+                vectors[direction].y = y;
+                vectors[direction].x = x + 2;
+                direction++;
+            }
+
+            // No available directions left
+            if (direction === 0) {
+
+                // Look for passage ends
+                let blocked = 0;
+
+                // Check up
+                if (this._grid[y - 1][x]) { blocked++; }
+                // Check down
+                if (this._grid[y + 1][x]) { blocked++; }
+                // Check left
+                if (this._grid[y][x - 1]) { blocked++; }
+                // Check right
+                if (this._grid[y][x + 1]) { blocked++; }
+
+                // If 3/4 directions are blocked, it's a passage end
+                if (blocked === 3) {
+                    this._ends.push(this._sketch.createVector(x, y));
+                }
+
+                break;
+            }
+
+            // Set the next step direction from available directions
+            direction = Math.floor(this._random() * direction);
+
+            // Set connecting grid position false (default/walls are true)
+            this._grid
+                [(vectors[direction].y + y) / 2]
+                [(vectors[direction].x + x) / 2]
+                    = false;
+
+            // Proceed to next step based on direction vector
+            this.step(vectors[direction].y, vectors[direction].x);
+        }
+    }
+}
