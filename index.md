@@ -31,6 +31,8 @@ Depending on the volume at which one observes _Seed_, the user may or may not no
 
 <iframe src="https://thatwhichis.github.io/history-and-theory-of-dynamic-media/cp2_chance-operations/" width="600" height="500"></iframe>
 
+[Project Source](https://github.com/thatwhichis/history-and-theory-of-dynamic-media/tree/gh-pages/cp2_chance-operations)
+
 Attributions:
 
 - JavaScript implementations of jsf32, sfc32, xmur3, and xoshiro128** by Stack Overflow user bryc
