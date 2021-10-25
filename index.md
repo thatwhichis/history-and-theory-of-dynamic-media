@@ -23,17 +23,15 @@ Once roles are decided, each participant should open the link to their role and 
 
 Seed is an art prototype prompting contemplation the nature of chance operations (herein pseudo-random number generation, or PRNG, functions) in a digital environment. It begins by calculating and displaying to the user the seconds passed since 00:00:00 UTC January 1, 1970 using the JavaScript Date.now function and invites them to choose a moment to seed various PRNGs.
 
-<figure class="video_container">
-<iframe src="https://thatwhichis.github.io/history-and-theory-of-dynamic-media/cp2_chance-operations/" width="500" height="500" frameborder="0" marginwidth="0" marginheight="0"></iframe>
-</figure>
+<iframe src="https://thatwhichis.github.io/history-and-theory-of-dynamic-media/cp2_chance-operations/" width="400" height="450"></iframe>
 
 Attributions:
 
-- JavaScript implementations of jsf32, sfc32, xmur3, and xoshiro128** by Stack Overflow user bryc.
+- JavaScript implementations of jsf32, sfc32, xmur3, and xoshiro128** by Stack Overflow user bryc
   - [User profile](https://stackoverflow.com/users/815680/bryc)
   - [Source](https://stackoverflow.com/questions/521295/seeding-the-random-number-generator-in-javascript/47593316#47593316)
-  - These implementations subject to [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) per [Stack Overflow's Licensing Policies](https://stackoverflow.com/help/licensing) and [Source Timeline](https://stackoverflow.com/posts/47593316/timeline) as of June 12 2021.
-  - No changes were made.
+  - These implementations subject to [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) per [Stack Overflow's Licensing Policies](https://stackoverflow.com/help/licensing) and [Source Timeline](https://stackoverflow.com/posts/47593316/timeline) as of June 12 2021
+  - No changes were made
 
 - jsf32 was designed by Robert Jenkins
   - [Source and Public Domain License](http://burtleburtle.net/bob/rand/smallprng.html)
