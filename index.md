@@ -1,8 +1,8 @@
-# History and Theory of Dynamic Media
+## History and Theory of Dynamic Media
 
-## Creative Project 1: Fluxus Score
+### Creative Project 1: Fluxus Score
 
-### Mock Interview
+#### Mock Interview
 
 For performance by three (3) people with four (4) Zoom enabled video/audio devices with four (4) Zoom accounts.
 
@@ -17,12 +17,33 @@ Once roles are decided, each participant should open the link to their role and 
 
 (**NOTE:** For demonstration purposes, this score may be performed in a single Zoom meeting via two breakout rooms, rather than two individual Zoom meetings, so long as one room contains both (R) and one (TD) account, and the other room contains both (C) and the other (TD) account. Any spectators in either room should ensure their audio is muted/disabled.)
 
-## Creative Project 2: Chance Operations
+### Creative Project 2: Chance Operations
 
-### Seed
+#### Seed
 
 Seed is an art prototype prompting contemplation the nature of chance operations (herein pseudo-random number generation, or PRNG, functions) in a digital environment. It begins by calculating and displaying to the user the seconds passed since 00:00:00 UTC January 1, 1970 using the JavaScript Date.now function and invites them to choose a moment to seed various PRNGs.
 
+<figure class="video_container">
 <iframe src="https://thatwhichis.github.io/history-and-theory-of-dynamic-media/cp2_chance-operations/" width="500" height="500" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+</figure>
 
-Citations:
+Attributions:
+
+- JavaScript implementations of jsf32, sfc32, xmur3, and xoshiro128** by Stack Overflow user bryc.
+  - User profile: https://stackoverflow.com/users/815680/bryc
+  - Source: https://stackoverflow.com/questions/521295/seeding-the-random-number-generator-in-javascript/47593316#47593316
+  - These implementations subject to CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+  - No changes were made.
+
+- jsf32 was designed by Robert Jenkins
+  - jsf32 is Public Domain: http://burtleburtle.net/bob/rand/smallprng.html
+
+- sfc32 was designed by Chris Doty-Humphrey
+  - sfc32 is Public Domain: http://pracrand.sourceforge.net/license.txt
+
+- xoshiro128** was designed by David Blackman and Sebastiano Vigna
+  - xoshiro128** is Public Domain: https://prng.di.unimi.it/xoshiro128starstar.c
+  - License: https://creativecommons.org/publicdomain/zero/1.0/
+
+- MurmurHash was designed by Austin Appleby
+  - MurmurHash is Public Domain: https://github.com/aappleby/smhasher
