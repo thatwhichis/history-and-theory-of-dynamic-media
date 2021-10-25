@@ -21,13 +21,13 @@ Once roles are decided, each participant should open the link to their role and 
 
 #### Seed
 
-Seed is an art prototype prompting contemplation of the nature of chance operations (herein pseudo-random number generation, or PRNG, functions) in a digital environment. It begins by calculating and displaying to the user the seconds passed since 00:00:00 UTC January 1, 1970 using the JavaScript Date.now function and invites them to choose a moment to seed various PRNGs.
+_Seed_ is an art prototype prompting contemplation of the nature of chance operations (herein pseudo-random number generation, or PRNG, functions) in a digital environment. It begins by calculating and displaying to the user the seconds passed since 00:00:00 UTC January 1, 1970 using the JavaScript Date.now function and invites them to choose a moment to seed various PRNGs.
 
-Each PRNG function currently included generates a different initial root and branch (colored subtly differently) based off identical 32-bit hashed values created from the input seed. Seed suggests the user consider the appearance of chance as a literal function of time, but, after accepting an initial time-based seed, allows the user to enter their own values to playfully explore the different generated trees they can produce.
+Each PRNG function currently included generates a different initial root and branch (colored subtly differently) based off identical 32-bit hashed values created from the input seed. _Seed_ suggests the user consider the appearance of chance as a literal function of time, but, after accepting an initial time-based seed, allows the user to enter their own values to playfully explore the different generated trees they can produce.
 
-The background, an array of ever shifting circles, is meant to both colorfully suggest to the user they are experiencing Seed in a transitional period (e.g., dawn or dusk) and also to create a sense of nature ever shifting.
+The background, an array of ever shifting circles, is meant to both colorfully suggest to the user they are experiencing _Seed_ in a transitional period (e.g., dawn or dusk) and again create an awareness of the ever-shifting nature of time.
 
-Depending on the volume at which one observes Seed, they may or may not notice a low-level "electrical" hum (potentially overwhelming at high volumes?) intentionally generated in juxtaposition of the more natural visual shapes and to create a sense of dissonant unease.
+Depending on the volume at which one observes _Seed_, the user may or may not notice a low-level "electrical" hum (potentially overwhelming at high volumes?) intentionally generated in juxtaposition of the more natural visual shapes and to create a sense of dissonant unease.
 
 <iframe src="https://thatwhichis.github.io/history-and-theory-of-dynamic-media/cp2_chance-operations/" width="600" height="500"></iframe>
 
