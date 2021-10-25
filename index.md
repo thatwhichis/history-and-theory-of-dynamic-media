@@ -23,6 +23,6 @@ Once roles are decided, each participant should open the link to their role and 
 
 Seed is an art project 
 
-<iframe src="https://thatwhichis.github.io/history-and-theory-of-dynamic-media/cp2_chance-operations/" width="500" height="500" style="text-align:center"></iframe>
+<iframe src="https://thatwhichis.github.io/history-and-theory-of-dynamic-media/cp2_chance-operations/" width="500" height="500" style="text-align:center; display: block;"></iframe>
 
 post test
