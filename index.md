@@ -30,20 +30,24 @@ Seed is an art prototype prompting contemplation the nature of chance operations
 Attributions:
 
 - JavaScript implementations of jsf32, sfc32, xmur3, and xoshiro128** by Stack Overflow user bryc.
-  - User profile: https://stackoverflow.com/users/815680/bryc
-  - Source: https://stackoverflow.com/questions/521295/seeding-the-random-number-generator-in-javascript/47593316#47593316
-  - These implementations subject to CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+  - [User profile](https://stackoverflow.com/users/815680/bryc)
+  - [Source](https://stackoverflow.com/questions/521295/seeding-the-random-number-generator-in-javascript/47593316#47593316)
+  - These implementations subject to [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) per [Stack Overflow's Licensing Policies](https://stackoverflow.com/help/licensing) and [Source Timeline](https://stackoverflow.com/posts/47593316/timeline) as of June 12 2021.
   - No changes were made.
 
 - jsf32 was designed by Robert Jenkins
-  - jsf32 is Public Domain: http://burtleburtle.net/bob/rand/smallprng.html
+  - [Source and Public Domain License](http://burtleburtle.net/bob/rand/smallprng.html)
 
 - sfc32 was designed by Chris Doty-Humphrey
-  - sfc32 is Public Domain: http://pracrand.sourceforge.net/license.txt
+  - sfc32 is part of [PractRand](http://pracrand.sourceforge.net/)
+  - [Public Domain License](http://pracrand.sourceforge.net/license.txt)
 
 - xoshiro128** was designed by David Blackman and Sebastiano Vigna
-  - xoshiro128** is Public Domain: https://prng.di.unimi.it/xoshiro128starstar.c
-  - License: https://creativecommons.org/publicdomain/zero/1.0/
+  - [Source](https://prng.di.unimi.it/xoshiro128starstar.c)
+  - [Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/)
 
 - MurmurHash was designed by Austin Appleby
-  - MurmurHash is Public Domain: https://github.com/aappleby/smhasher
+  - [Source](https://github.com/aappleby/smhasher/tree/master/src)
+  - [Public Domain License](https://github.com/aappleby/smhasher)
+
+To my knowledge these attributions satisfy the requirements of their individual licenses but please let me know if there are any errors I can correct.
