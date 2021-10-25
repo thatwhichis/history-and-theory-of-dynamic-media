@@ -23,7 +23,7 @@ Once roles are decided, each participant should open the link to their role and 
 
 Seed is an art prototype prompting contemplation the nature of chance operations (herein pseudo-random number generation, or PRNG, functions) in a digital environment. It begins by calculating and displaying to the user the seconds passed since 00:00:00 UTC January 1, 1970 using the JavaScript Date.now function and invites them to choose a moment to seed various PRNGs.
 
-<iframe src="https://thatwhichis.github.io/history-and-theory-of-dynamic-media/cp2_chance-operations/" width="400" height="450"></iframe>
+<iframe src="https://thatwhichis.github.io/history-and-theory-of-dynamic-media/cp2_chance-operations/" width="600" height="500"></iframe>
 
 Attributions:
 
