@@ -16,3 +16,10 @@ Roles:
 Once roles are decided, each participant should open the link to their role and proceed from there.
 
 (**NOTE:** For demonstration purposes, this score may be performed in a single Zoom meeting via two breakout rooms, rather than two individual Zoom meetings, so long as one room contains both (R) and one (TD) account, and the other room contains both (C) and the other (TD) account. Any spectators in either room should ensure their audio is muted/disabled.)
+
+## Creative Project 2: Chance Operations
+
+### Seed
+
+test
+<iframe src="https://thatwhichis.github.io/history-and-theory-of-dynamic-media/cp2_chance-operations/" style="width=400"></iframe>
