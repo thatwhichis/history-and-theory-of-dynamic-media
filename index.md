@@ -25,7 +25,7 @@ _Seed_ is an art prototype prompting contemplation of the nature of chance opera
 
 Each PRNG function currently included generates a different initial root and branch (colored subtly differently) based off identical 32-bit hashed values created from the input seed. _Seed_ suggests the user consider the appearance of chance as a literal function of time, but, after accepting an initial time-based seed, allows the user to enter their own values to playfully explore the different generated trees they can produce.
 
-The background, an array of ever shifting circles, is meant to both colorfully suggest to the user they are experiencing _Seed_ in a transitional period (e.g., dawn or dusk) and again create an awareness of the ever-shifting nature of time.
+The background, an array of ever shifting circles, is meant to both colorfully suggest to the user they are experiencing _Seed_ in a transitional period (e.g., dawn or dusk) and again create an awareness of the ever-shifting nature of time. The darker, brownish tones toward the bottom of the image also suggest ground into which the seed is taking root.
 
 Depending on the volume at which one observes _Seed_, the user may or may not notice a low-level "electrical" hum (potentially overwhelming at high volumes?) intentionally generated in juxtaposition of the more natural visual shapes and to create a sense of dissonant unease.
 
