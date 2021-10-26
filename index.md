@@ -21,7 +21,7 @@ Once roles are decided, each participant should open the link to their role and 
 
 #### Seed
 
-_Seed_ is an art prototype prompting contemplation of the nature of chance operations (herein pseudo-random number generation, or PRNG, functions) in a digital environment. It begins by calculating and displaying to the user the seconds passed since 00:00:00 UTC January 1, 1970 using the JavaScript Date.now function and invites them to choose a moment to seed various PRNGs.
+_Seed_ is an art prototype built in the p5.js framework prompting contemplation of the nature of chance operations (herein pseudo-random number generation, or PRNG, functions) in a digital environment. It begins by calculating and displaying to the user the seconds passed since 00:00:00 UTC January 1, 1970 using the JavaScript Date.now function and invites them to choose a moment to seed various PRNGs.
 
 Each PRNG function currently included generates a different initial root and branch (colored subtly differently) based off identical 32-bit hashed values created from the input seed. _Seed_ suggests the user consider the appearance of chance as a literal function of time, but, after accepting an initial time-based seed, allows the user to enter their own values to playfully explore the different generated trees they can produce.
 
