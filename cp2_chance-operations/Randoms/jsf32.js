@@ -7,8 +7,8 @@
 // This implementation subject to CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 // No changes were made.
 
-// JSF was designed by Robert Jenkins
-// JSF is Public Domain: http://burtleburtle.net/bob/rand/smallprng.html
+// jsf32 was designed by Robert Jenkins
+// jsf32 is Public Domain: http://burtleburtle.net/bob/rand/smallprng.html
 
 function jsf32(a, b, c, d) {
     return function() {

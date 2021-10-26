@@ -7,8 +7,8 @@
 // This implementation subject to CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 // No changes were made.
 
-// SFC was designed by Chris Doty-Humphrey
-// SFC is Public Domain: http://pracrand.sourceforge.net/license.txt
+// sfc32 was designed by Chris Doty-Humphrey
+// sfc32 is Public Domain: http://pracrand.sourceforge.net/license.txt
 
 function sfc32(a, b, c, d) {
     return function() {
