@@ -85,7 +85,10 @@ class Circle {
 
         translate(this._drawPosition.x, this._drawPosition.y);
         fill(this._color);
-        circle(0, 0, this._drawSize);
+
+        // 20211027 - jk! these are squares now per suggestion in class 20211026
+        let halfSize = this._drawSize / 2;
+        square(-halfSize, -halfSize, this._drawSize);
 
         pop();
     }

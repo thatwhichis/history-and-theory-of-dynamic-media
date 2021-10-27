@@ -18,10 +18,11 @@ class Seed extends Drawable {
         this._energy = 20;
         this._min = this._energy * 3 / 4;
 
+        // 20211027 - per suggestion in class 20211026, increased color diversty
         let colors = [];
-        colors.push(color(colour.r - 5 - (randoms[0]() * 5), colour.g, colour.b));
+        colors.push(color(colour.r - 15 - (randoms[0]() * 5), colour.g, colour.b));
         colors.push(color(colour.r, colour.g, colour.b));
-        colors.push(color(colour.r + 5 + (randoms[2]() * 5), colour.g, colour.b));
+        colors.push(color(colour.r + 15 + (randoms[2]() * 5), colour.g, colour.b));
 
         // Initialize array of Growths
         this._growths = [];
